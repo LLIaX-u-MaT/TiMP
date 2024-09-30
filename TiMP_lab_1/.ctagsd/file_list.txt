@@ -1,0 +1,3 @@
+/home/stud/C++Projects/TiMP_lab_1/TiMP_lab_1/modCipherBeta.h
+/home/stud/C++Projects/TiMP_lab_1/TiMP_lab_1/main.cpp
+/home/stud/C++Projects/TiMP_lab_1/TiMP_lab_1/modCipherBeta.cpp
